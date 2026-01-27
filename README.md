@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ShubhangaVM
-- 👀 I’m interested in python,HTML,CSS,Javascript
+- 👀 I’m interested in python,HTML,CSS,
 - 🌱 I’m currently learning ...python,HTML,CSS,Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Gmail:shubhanga.printplus@gmail.com,Instagram-svm_360
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Schrodinger's cat theory actually criticzes quantum theory that when quantum theory is applied to real-life objects, the results are absurd.
 
 <!---
 ShubhangaVM/ShubhangaVM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
